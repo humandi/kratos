@@ -9,7 +9,7 @@ replace (
 	// github.com/go-webauthn/webpopauthn => github.com/go-webauthn/webauthn v0.11.2
 	// github.com/gobuffalo/pop/v6 => github.com/ory/pop/v6 v6.2.1-0.20241121111754-e5dfc0f3344b
 	// github.com/gobuffalo/pop/v6 => ../ory-pop
-	github.com/gobuffalo/pop/v6 => github.com/humandi/ory-pop/v6 v6.2.100000
+	github.com/gobuffalo/pop/v6 => github.com/humandi/ory-pop/v6 v6.2.100001
 	// github.com/go-swagger/go-swagger => ../../go-swagger/go-swagger
 	// https://github.com/gobuffalo/pop/pull/833
 
